@@ -1,3 +1,4 @@
 Literature Survey
 .env
 *.csv
+.DS_Store
